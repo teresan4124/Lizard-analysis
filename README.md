@@ -53,7 +53,7 @@ These measurements are computed both as raw distances and size-corrected values 
 - `nosize.csv` — Raw trait measurements per species
 - `wsize.csv` — Size-corrected (SVL-scaled) measurements per species
 
-- ## Visualizing Results with Markdown
+## Visualizing Results with Markdown
 
 To help communicate the results of this analysis more clearly, key graphs generated in R were saved as image files (e.g., PNGs) and embedded directly into this README using **Markdown**.
 
@@ -64,7 +64,6 @@ To help communicate the results of this analysis more clearly, key graphs genera
 3. The image files (e.g., `Closing-in-lever.png`) were uploaded to the GitHub repository (inside an `images/` folder)
 4. Markdown syntax was used to display the image in the README:
 
-```markdown
 ![Closing in Lever Plot](images/Closing-in-lever.png)
 ![Jaw Width Plot](images/Jaw-width.png)
 
