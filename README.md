@@ -64,8 +64,8 @@ To help communicate the results of this analysis more clearly, key graphs genera
 3. The image files (e.g., `Closing-in-lever.png`) were uploaded to the GitHub repository (inside an `images/` folder)
 4. Markdown syntax was used to display the image in the README:
 
-![Closing in Lever Plot](images/Closing-in-lever.png)
-![Jaw Width Plot](images/Jaw-width.png)
+![Closing in Lever Plot](Closing-in-lever.png)
+![Jaw Width Plot](Jaw-width.png)
 
 ## Notes
 
